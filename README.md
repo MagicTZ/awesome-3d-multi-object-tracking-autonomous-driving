@@ -25,3 +25,10 @@ A summary and list of open source 3D multi object tracking and datasets at this 
 |         [Waymo](https://waymo.com/open/challenges/)          |                                                          |                                          |
 |   [Apollo Scape](http://apolloscape.auto/trajectory.html)    | [github](https://github.com/ApolloScapeAuto/dataset-api) | [here](https://arxiv.org/abs/1803.06184) |
 
+## Contributor
+@[MagicTZ](https://github.com/MagicTZ)
+
+If you are also interested in this topic, please feel free to discuss! :smile: [Contact Me](zhen tan: tz.paul1996@gmail.com)
+
+希望找到志同道合的小伙伴~
+
