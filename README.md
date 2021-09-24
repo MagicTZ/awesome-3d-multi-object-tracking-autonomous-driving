@@ -14,8 +14,6 @@ A summary and list of open source 3D multi object tracking and datasets at this 
 | [CenterPoint (2021)](https://github.com/tianweiy/CenterPoint) | ![](https://img.shields.io/github/stars/tianweiy/CenterPoint.svg?style=social&label=star) | 3D Object Detection and Tracking using center points in the bird-eye view | [here](https://arxiv.org/abs/2006.11275) |  python  |                |    Waymo Nuscenes    |
 | [Monocular Quasi-Dense 3D Object Tracking (QD-3DT ,2021)](https://github.com/SysCV/qd-3dt) </br> [website](https://eborboihuc.github.io/QD-3DT/) | ![](https://img.shields.io/github/stars/SysCV/qd-3dt.svg?style=social&label=star) | an online framework detects and tracks objects in 3D using quasi-dense object proposals from 2D images. | [here](https://arxiv.org/abs/2103.07351) |  python  |     camera     | NuScenes KITTI Waymo |
 
-
-
 ## Dataset 
 
 |                           Dataset                            |                         Tutorial                         |                  Paper                   |
@@ -25,7 +23,20 @@ A summary and list of open source 3D multi object tracking and datasets at this 
 |         [Waymo](https://waymo.com/open/challenges/)          |                                                          |                                          |
 |   [Apollo Scape](http://apolloscape.auto/trajectory.html)    | [github](https://github.com/ApolloScapeAuto/dataset-api) | [here](https://arxiv.org/abs/1803.06184) |
 
+## Evaluation
+
+For specific parameters and codes for MOT accuracy evaluation, I recommend the following two githubs:
+
+1. [TrackEval](https://github.com/JonathonLuiten/TrackEval)
+
+2. [py-motmetrics](https://github.com/cheind/py-motmetrics)
+
+## Tutorial
+
+
+
 ## Contributor
+
 @[MagicTZ](https://github.com/MagicTZ)
 
 If you are also interested in this topic, please feel free to discuss! :smile: [Contact Me](zhen tan: tz.paul1996@gmail.com)
