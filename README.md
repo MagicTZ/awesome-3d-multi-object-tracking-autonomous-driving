@@ -1,3 +1,10 @@
+<!--
+ * @Author: 谭臻 (Zhen Tan)
+ * @Date: 2021-09-21 12:17:03
+ * @LastEditTime: 2021-10-19 17:38:56
+ * @Description: 
+ * @Version: 
+-->
 # awesome-3d-multi-object-tracking-autonomous-driving
 A summary and list of open source 3D multi object tracking and datasets at this stage.
 
@@ -13,6 +20,7 @@ A summary and list of open source 3D multi object tracking and datasets at this 
 | [EagerMOT (ICRA 2021)](https://github.com/aleksandrkim61/EagerMOT) | ![](https://img.shields.io/github/stars/aleksandrkim61/EagerMOT.svg?style=social&label=star) | Improve the online 3D multi-object tracking performance by using 2D detections to support tracking when 3D association fails. | [here](https://arxiv.org/abs/2104.14682) |  python  | LIDAR + camera |    KITTI Nuscenes    |
 | [CenterPoint (2021)](https://github.com/tianweiy/CenterPoint) | ![](https://img.shields.io/github/stars/tianweiy/CenterPoint.svg?style=social&label=star) | 3D Object Detection and Tracking using center points in the bird-eye view | [here](https://arxiv.org/abs/2006.11275) |  python  |                |    Waymo Nuscenes    |
 | [Monocular Quasi-Dense 3D Object Tracking (QD-3DT ,2021)](https://github.com/SysCV/qd-3dt) </br> [website](https://eborboihuc.github.io/QD-3DT/) | ![](https://img.shields.io/github/stars/SysCV/qd-3dt.svg?style=social&label=star) | an online framework detects and tracks objects in 3D using quasi-dense object proposals from 2D images. | [here](https://arxiv.org/abs/2103.07351) |  python  |     camera     | NuScenes KITTI Waymo |
+|  [Detection and Tracking of Moving Objects with 2D LIDAR(2017)](https://github.com/kostaskonkk/datmo)  |          ![](https://img.shields.io/github/stars/kostaskonkk/datmo.svg?style=social&label=star)                                                     |                            Tracking moving objects using L-Shape feature from **2D LiDAR**                                   |         [here](https://ieeexplore.ieee.org/abstract/document/8168365)                                 |      c++(ros)    |         2d LIDAR       |          own            |
 
 ## Dataset 
 
