@@ -30,6 +30,7 @@ A summary and list of open source 3D multi object tracking and datasets at this 
 | [NuScenes](https://www.nuscenes.org/tracking?externalData=all&mapData=all&modalities=Any) |   [tool](https://github.com/nutonomy/nuscenes-devkit)    |                                          |
 |         [Waymo](https://waymo.com/open/challenges/)          |                                                          |                                          |
 |   [Apollo Scape](http://apolloscape.auto/trajectory.html)    | [github](https://github.com/ApolloScapeAuto/dataset-api) | [here](https://arxiv.org/abs/1803.06184) |
+|   [H3D Dataset](https://usa.honda-ri.com/H3D)    | [homepage](https://usa.honda-ri.com/H3D) | [here](https://arxiv.org/pdf/1903.01568.pdf) |
 
 ## Evaluation
 
